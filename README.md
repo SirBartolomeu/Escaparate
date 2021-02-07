@@ -1,2 +1,2 @@
-# Repertory
-Test repository to show my work
+# Escaparate
+Repository to show my work
